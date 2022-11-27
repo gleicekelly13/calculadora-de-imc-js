@@ -13,3 +13,7 @@ body {
     min-height: 100vh;
     color: white;
 }
+
+.hide {
+    display: none !important;
+}
