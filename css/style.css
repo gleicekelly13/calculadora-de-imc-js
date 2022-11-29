@@ -49,3 +49,14 @@ body {
     margin-bottom: 0.6rem;
     color: #ccc;
 }
+
+.form-control input {
+    padding: 1rem 0.5rem;
+}
+
+.action-control {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    gap: 1rem;
+}
