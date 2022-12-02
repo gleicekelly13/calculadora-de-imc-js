@@ -99,3 +99,8 @@ button:hover {
     margin-top: 1rem;
     color: #dfdfdf;
 }
+
+#imc-table {
+    margin: 1.5rem 0;
+    font-size: 0.8rem;
+}
