@@ -111,3 +111,17 @@ button:hover {
     font-weight: bold;
     color: #ccc;
 }
+
+.table-header,
+.table-data {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #444;
+}
+
+.table-header h4,
+.table-data p {
+    flex: 1;
+}
