@@ -81,3 +81,21 @@ button:hover {
 }
 
 /* Table */
+#result-container {
+    text-align: center;
+}
+
+#imc-number {
+    font-size: 2.4rem;
+    margin-bottom: 0.6rem;
+}
+
+#imc-info {
+    font-size: 1.4rem;
+    color: #ccc;
+}
+
+#result-container h3 {
+    margin-top: 1rem;
+    color: #dfdfdf;
+}
