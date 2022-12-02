@@ -83,6 +83,8 @@ button:hover {
 /* Table */
 #result-container {
     text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 
 #imc-number {
