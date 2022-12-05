@@ -36,3 +36,11 @@ const data = [
         obesity: "III",
     },
 ];
+
+// Seleção de elementos
+const imcTabe = document.querySelector("#imc-table");
+
+const heightInput = document.querySelector("#height");
+const weightInput = document.querySelector("#weight");
+const calcBtn = document.querySelector("#calc-btn");
+const clearBtn = document.querySelector("#clear-btn");
