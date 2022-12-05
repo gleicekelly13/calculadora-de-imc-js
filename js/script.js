@@ -44,3 +44,12 @@ const heightInput = document.querySelector("#height");
 const weightInput = document.querySelector("#weight");
 const calcBtn = document.querySelector("#calc-btn");
 const clearBtn = document.querySelector("#clear-btn");
+
+//Funções Criação da tabela
+function createTable(data) {
+    data.forEach((item)) => {
+
+        
+
+    }
+}
