@@ -74,10 +74,15 @@ function cleanInputs() {
     weightInput.value =""
 }
 
+function validDigits(text) {
+    return text.replace(/[^0-9,]/g, "");
+}
+
 // Inicialização 
 createTable(data);
 
 // Eventos
 clearBtn.addEventListener("click", (e) => {
+    e.preventDefault();
     cleanInputs();
 })
