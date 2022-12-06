@@ -47,7 +47,7 @@ const clearBtn = document.querySelector("#clear-btn");
 
 //Funções 
 function createTable(data) {
-    data.forEach((item)) => {
+    data.forEach((item) => {
       const div = document.createElement("div");
       div.classList.add("table-data");
       
@@ -66,5 +66,8 @@ function createTable(data) {
       div.appendChild(obesity);
 
       imcTable.appendChild(div);
-    }
+    });
 }
+
+//Inicialização 
+createTable(data);
