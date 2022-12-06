@@ -69,5 +69,15 @@ function createTable(data) {
     });
 }
 
-//Inicialização 
+function cleanInputs() {
+    heightInput.value = ""
+    weightInput.value =""
+}
+
+// Inicialização 
 createTable(data);
+
+// Eventos
+clearBtn.addEventListener("click", (e) => {
+    cleanInputs();
+})
