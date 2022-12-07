@@ -78,6 +78,12 @@ function validDigits(text) {
     return text.replace(/[^0-9,]/g, "");
 }
 
+function calcImc(weight, height) {
+    const imc = (weight / (height * height)).toFixed(1);
+
+    return imc;
+}
+
 // Inicialização 
 createTable(data);
 
@@ -97,6 +103,10 @@ calcBtn.addEventListener("click", (e) =>{
 
 
     if (!weight || !height) return;
+
+    const imc = calcImc(weight, height);
+
+    console.log(imc);
 })
 
 clearBtn.addEventListener("click", (e) => {
