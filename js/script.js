@@ -106,8 +106,18 @@ calcBtn.addEventListener("click", (e) =>{
 
     const imc = calcImc(weight, height);
 
-    console.log(imc);
-})
+    let info;
+
+    data.forEach((item) => {
+        if (imc >= item.min && imc <= item.max) {
+            info = item.info;
+        }
+    })
+
+    console.log(info);
+
+    if (!info) return;
+});
 
 clearBtn.addEventListener("click", (e) => {
     e.preventDefault();
