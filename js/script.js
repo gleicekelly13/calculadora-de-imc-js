@@ -138,4 +138,9 @@ calcBtn.addEventListener("click", (e) =>{
 clearBtn.addEventListener("click", (e) => {
     e.preventDefault();
     cleanInputs();
-})
+});
+
+backBtn.addEventListener("click", () => {
+    cleanInputs();
+    showOrHideResults();
+});
