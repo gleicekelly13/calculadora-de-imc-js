@@ -78,8 +78,10 @@ function createTable(data) {
 }
 
 function cleanInputs() {
-    heightInput.value = ""
-    weightInput.value =""
+    heightInput.value = "";
+    weightInput.value = "";
+    imcNumber.classList = "";
+    imcInfo.classList = "";
 }
 
 function validDigits(text) {
