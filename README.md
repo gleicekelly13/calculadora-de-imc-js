@@ -9,6 +9,10 @@
 <br>
 
 ## :iphone: Mobile design
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/80974593/207153085-4fb6637e-0954-4f2d-9126-49bfac0eb1ef.png"  width="300">
+</div>
 
 
 <h2 align="center">:hourglass: Status do projeto </h2>
