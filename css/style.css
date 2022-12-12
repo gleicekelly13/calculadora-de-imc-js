@@ -150,3 +150,10 @@ button:hover {
 .high {
     color: #db1912;
 }
+
+@media screen and (max-width: 480px) {
+    .container {
+        min-width: 300px;
+        margin-right: 5px;
+    }
+}
