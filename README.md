@@ -30,3 +30,8 @@
 <h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4> 
 <h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
 <br>
+
+<br>
+<h2 align="center"> :computer: Tecnologias utilizadas </h2>
+<p>HTML5</p>
+<p>CSS3</p>
