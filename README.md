@@ -8,6 +8,11 @@
 </div>
 <br>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/80974593/207414313-ed9e6d42-fbd7-4f39-9afb-9fa5f5f08acb.png"  width="500">
+</div>
+<br>
+
 ## :iphone: Mobile design
 <br>
 <div align="center">
