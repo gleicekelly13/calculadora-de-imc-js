@@ -1,6 +1,6 @@
 <h1 align="center">Calculadora de IMC</h1>
 <h2 align="center">:page_facing_up: Descrição do projeto</h2>
-<p>Calculadora que faz o cálculo do IMC e exibe os dados com suas avaliações, desevnvolvida com HTML, CSS e JAVASCRIPT.</p>
+<p>Calculadora que faz o cálculo do IMC e exibe os dados com suas avaliações, desenvolvida com HTML, CSS e JAVASCRIPT.</p>
 <br>
 
 ## :desktop_computer: Desktop design
