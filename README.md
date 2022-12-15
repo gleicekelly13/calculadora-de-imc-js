@@ -43,3 +43,5 @@
 <p>JAVASCRIPT</p>
 
 # :sunglasses: Autora
+
+- GitHub - [GleiceKelly](https://github.com/gleicekelly13)
