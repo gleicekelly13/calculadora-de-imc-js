@@ -35,6 +35,7 @@
 
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
 <p>Ao colocar os valores nos campo 'peso' e 'altura' e clicar no botão 'calcular, a calculadora com base na fórmula do IMC(peso/altura elevada ao quadrado), realiza o cálculo;</P>
+<p>Se não colocar nenhuma informação nos campos e clicar em calcular, ela não processsará;</p>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://gleicekelly13.github.io/calculadora-de-imc-js/ </p>
