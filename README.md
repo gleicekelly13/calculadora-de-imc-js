@@ -39,6 +39,7 @@
 <p>Ao colocar os valores e clicar na opção 'limpar', ela reseta os campos;</p>
 <p>Ao inserir os valores e clicar em 'calcular', ela dará o resultado abrindo uma segunda página e exibindo um feedback visual. Esse resultado virá em cores diferentes, dependendo da gravidade do problema;</p>
 <p>Na segunda página, ela exibe uma tabela contendo todos os itens de classificação do IMC, as informações de acordo com os dados e os graus de obesidade;</p>
+<p>Ao clicar no botão 'voltar', ele reinicia a calculadora.</p>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://gleicekelly13.github.io/calculadora-de-imc-js/ </p>
