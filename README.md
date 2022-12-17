@@ -37,7 +37,8 @@
 <p>Ao colocar os valores nos campo 'peso' e 'altura' e clicar no botão 'calcular, a calculadora com base na fórmula do IMC(peso/altura elevada ao quadrado), realiza o cálculo;</P>
 <p>Se não colocar nenhuma informação nos campos e clicar em calcular, ela não processsará;</p>
 <p>Ao colocar os valores e clicar na opção 'limpar', ela reseta os campos;</p>
-<p>Ao inserir os valores e clicar em 'calcular', ela dará o resultado abrindo uma segunda página e exibindo um feedback visual. Esse resultado virá em cores diferentes, dependendo da gravidade do problema.</p>
+<p>Ao inserir os valores e clicar em 'calcular', ela dará o resultado abrindo uma segunda página e exibindo um feedback visual. Esse resultado virá em cores diferentes, dependendo da gravidade do problema;</p>
+<p>Na segunda página, ela exibe uma tabela contendo todos os itens de classificação do IMC, as informações de acordo com os dados e os graus de obesidade;</p>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://gleicekelly13.github.io/calculadora-de-imc-js/ </p>
