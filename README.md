@@ -46,6 +46,7 @@
 <p>Praticar a criação de formulário;</p>
 <p>Utilização do display 'none' para ocultar elementos no layout;</p>
 <p>Praticar seleção de elementos;</p>
+<p>Criação dinâmica de tabelas;</p>
 <br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
