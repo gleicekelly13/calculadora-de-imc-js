@@ -49,6 +49,7 @@
 <p>Criação dinâmica de tabelas;</p>
 <p>Como inserir os parágrafos com informações dentro das divs;</p>
 <p>Criação de função que limpa o formulário;</p>
+<p>Como limitar os dígitos nos inputs;</p>
 <br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
