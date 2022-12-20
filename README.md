@@ -47,6 +47,7 @@
 <p>Utilização do display 'none' para ocultar elementos no layout;</p>
 <p>Praticar seleção de elementos;</p>
 <p>Criação dinâmica de tabelas;</p>
+<p>Como inserir os parágrafos com informações dentro das divs;</p>
 <br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
