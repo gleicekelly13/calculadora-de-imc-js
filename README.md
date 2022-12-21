@@ -51,6 +51,7 @@
 <p>Criação de função que limpa o formulário;</p>
 <p>Como limitar os dígitos nos inputs;</p>
 <p>Como adicionar eventos;</p>
+<p>Como converter valores;</p>
 <br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
