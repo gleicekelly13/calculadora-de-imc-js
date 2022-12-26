@@ -56,6 +56,7 @@
 <p>Como criar função que calcula a fórmula do IMC;</p>
 <p>Como fazer transição de tela, e exibir os dados para o usuário;</p>
 <p>Como criar a função de voltar para a tela anterior;</p>
+<p>Como exibir o feedback visual.</p>
 <br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
