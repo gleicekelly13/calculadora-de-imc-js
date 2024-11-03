@@ -45,20 +45,22 @@
 <br>
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
-<p>Praticar a criação de formulário;</p>
-<p>Utilização do display 'none' para ocultar elementos no layout;</p>
-<p>Praticar seleção de elementos;</p>
-<p>Criação dinâmica de tabelas;</p>
-<p>Praticar criação de estruturas condicionais;</p>
-<p>Como inserir os parágrafos com informações dentro das divs;</p>
-<p>Criação de função que limpa o formulário;</p>
-<p>Como limitar os dígitos nos inputs;</p>
-<p>Como adicionar eventos;</p>
-<p>Como converter valores;</p>
-<p>Como criar função que calcula a fórmula do IMC;</p>
-<p>Como fazer transição de tela, e exibir os dados para o usuário;</p>
-<p>Como criar a função de voltar para a tela anterior;</p>
-<p>Como exibir o feedback visual.</p>
+<ul>
+  <li>Praticar a criação de formulário;</li>
+  <li>Utilização do display 'none' para ocultar elementos no layout;</li>
+  <li>Praticar seleção de elementos;</li>
+  <li>Criação dinâmica de tabelas;</li>
+  <li>Praticar criação de estruturas condicionais;</li>
+  <li>Como inserir os parágrafos com informações dentro das divs;</li>
+  <li>Criação de função que limpa o formulário;</li>
+  <li>Como limitar os dígitos nos inputs;</li>
+  <li>Como adicionar eventos;</li>
+  <li>Como converter valores;</li>
+  <li>Como criar função que calcula a fórmula do IMC;</li>
+  <li>Como fazer transição de tela, e exibir os dados para o usuário;</li>
+  <li>Como criar a função de voltar para a tela anterior;</li>
+  <li>Como exibir o feedback visual.</li>
+</ul>
 <br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
